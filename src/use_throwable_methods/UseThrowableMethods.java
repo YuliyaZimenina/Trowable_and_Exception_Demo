@@ -1,3 +1,5 @@
+package use_throwable_methods;
+
 public class UseThrowableMethods {
     public static void main(String[] args) {
        try{

@@ -1,3 +1,5 @@
+package use_throwable_methods;
+
 // Using the Throwable class methods
 class ExceptionTest {
     // Method for throwing an exception
